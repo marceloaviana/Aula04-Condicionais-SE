@@ -86,4 +86,4 @@ else:
 print(f"O resultado {n1} {operador} {n2} = {resultado}")
 
 
-
+# fim 
